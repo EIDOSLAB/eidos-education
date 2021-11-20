@@ -4,7 +4,7 @@
 
 **Email**: riccardo.renzulli@unito.it
 
-<img src="assets/capsnet_architecture.png" width="50%"/>
+<img src="assets/capsnet_architecture.png" width="60%"/>
 
 Reference paper: [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf)
 
@@ -21,14 +21,14 @@ Image source: https://cezannec.github.io/assets/capsules/capsule_output.gif
 
 
 <center>
-<img src="https://cezannec.github.io/assets/capsules/capsule_output.gif" width="50%"/>
+<img src="https://cezannec.github.io/assets/capsules/capsule_output.gif" width="45%"/>
 </center>
 <br/>
 
 The **routing algorithm** is performed between PrimaryCaps and DigitCaps layers.
 
 <center>
-<img src="https://cezannec.github.io/assets/capsules/dynamic_routing.gif" width="50%"/>
+<img src="https://cezannec.github.io/assets/capsules/dynamic_routing.gif" width="45%"/>
 </center>
 <br/>
 
